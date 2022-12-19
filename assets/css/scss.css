@@ -7,6 +7,7 @@
 body {
   font-family: "Raleway", sans-serif;
   background-color: #8ea8ce;
+  height: 100vh;
 }
 body .nav1 {
   background-color: #161925;
@@ -74,6 +75,7 @@ a {
   color: green;
   align-items: center;
   justify-content: center;
+  color: white;
 }
 
 #topgamespass {
@@ -231,4 +233,11 @@ a {
   align-items: center;
   justify-content: center;
   margin-left: 30%;
+}
+
+.h2tec, .h2audi {
+  align-items: 30px;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 20px;
 }/*# sourceMappingURL=scss.css.map */
